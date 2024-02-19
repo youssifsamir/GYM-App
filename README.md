@@ -6,9 +6,9 @@ Welcome to the GYM & Nutrition Gears App repository! This mobile application is 
 ## Quick Preview
 
 <p align="center">
-  <img src="https://github.com/youssifsamir/GYM-App/assets/113045942/b81ee0ad-a698-4a52-b259-8014c6e32b52" width="300" height="600" />
-  <img src="https://github.com/youssifsamir/GYM-App/assets/113045942/6fdc8f4a-4822-4480-bad3-bb6372af0855" width="300" height="600" />
-  <img src="https://github.com/youssifsamir/GYM-App/assets/113045942/ca52e77d-883d-42be-abb8-973737734c72" width="300" height="600" />
+  <img src="https://github.com/youssifsamir/GYM-App/assets/113045942/b81ee0ad-a698-4a52-b259-8014c6e32b52" width="200" height="400" />
+  <img src="https://github.com/youssifsamir/GYM-App/assets/113045942/6fdc8f4a-4822-4480-bad3-bb6372af0855" width="200" height="400" />
+  <img src="https://github.com/youssifsamir/GYM-App/assets/113045942/ca52e77d-883d-42be-abb8-973737734c72" width="200" height="400" />
 </p>
 
 
