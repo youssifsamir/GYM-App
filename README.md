@@ -3,7 +3,7 @@
 Welcome to the GYM & Nutrition Gears App repository! This mobile application is built using Flutter and Dart, providing a smooth user experience and clean UI/UX design. Designed to assist fitness enthusiasts in managing their workout routines and nutritional plans effectively. 
 
 
-## Quick Preview
+## 🔥 Quick Preview
 
 <p align="center">
   <img src="https://github.com/youssifsamir/GYM-App/assets/113045942/b81ee0ad-a698-4a52-b259-8014c6e32b52" width="200" height="400" />
